@@ -1,4 +1,6 @@
-/*function calculation(num1, num2, operator){
+
+/* This is the same calculation done with tertiary operators
+function calculation(num1, num2, operator){
 let result = 0;
 
     switch(operator){
